@@ -40,7 +40,7 @@ const API_SITES = {
         name: '天涯资源',
     },
     xiaomaomi: {
-        api: 'https://zy.xmm.hk/api.php/provide/vod',
+        api: 'http://zy.xmm.hk/api.php/provide/vod/?ac=list',
         name: '小猫咪资源',
     },
     ffzy: {
